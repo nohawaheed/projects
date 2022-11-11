@@ -7,7 +7,9 @@
       { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
       { "angular": "fa-brands fa-angular pe-2 angular-color" },
       { "npm": "fab fa-npm pe-2 npm-color" },
-      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
+      { "sass": "fa-brands fa-sass pe-2 sass-color" },
+      { "html": "fa-brands fa-html5 pe-2 html-color" }
     ],
     "links": [
       { "github": "'https://github.com/nohawaheed/Final-Project'" },
@@ -22,7 +24,9 @@
       { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
       { "angular": "fa-brands fa-angular pe-2 angular-color" },
       { "npm": "fab fa-npm pe-2 npm-color " },
-      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
+      { "html": "fa-brands fa-html5 pe-2 html-color" },
+      { "css": "fa-brands fa-css3-alt pe-2 css-color" }
     ],
     "links": [
       { "github": "'https://github.com/nohawaheed/corona-reports'" },
@@ -37,7 +41,9 @@
       { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
       { "angular": "fa-brands fa-angular pe-2 angular-color" },
       { "npm": "fab fa-npm pe-2 npm-color" },
-      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
+      { "html": "fa-brands fa-html5 pe-2 html-color" },
+      { "sass": "fa-brands fa-sass pe-2 sass-color" }
     ],
     "links": [
       { "github": "'https://github.com/nohawaheed/Start-Angular'" },
@@ -51,7 +57,9 @@
     "tools": [
       { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
       { "react": "fa-brands fa-react pe-2 react-color" },
-      { "npm": "fab fa-npm pe-2 npm-color" }
+      { "npm": "fab fa-npm pe-2 npm-color" },
+      { "html": "fa-brands fa-html5 pe-2 html-color" },
+      { "css": "fa-brands fa-css3-alt pe-2 css-color" }
     ],
     "links": [
       { "github": "'https://github.com/nohawaheed/Insure-landing-page'" },
@@ -65,7 +73,9 @@
     "tools": [
       { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
       { "javascript": "fa-brands fa-js pe-2 javascript-color" },
-      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
+      { "html": "fa-brands fa-html5 pe-2 html-color" },
+      { "css": "fa-brands fa-css3-alt pe-2 css-color" }
     ],
     "links": [
       { "github": "'https://github.com/nohawaheed/Js-Quiz-Game'" },
@@ -79,7 +89,9 @@
     "tools": [
       { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
       { "javascript": "fa-brands fa-js pe-2 javascript-color" },
-      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
+      { "html": "fa-brands fa-html5 pe-2 html-color" },
+      { "css": "fa-brands fa-css3-alt pe-2 css-color" }
     ],
     "links": [
       { "github": "'https://github.com/nohawaheed/Weather-App'" },
@@ -93,7 +105,9 @@
     "tools": [
       { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
       { "javascript": "fa-brands fa-js pe-2 javascript-color" },
-      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
+      { "html": "fa-brands fa-html5 pe-2 html-color" },
+      { "css": "fa-brands fa-css3-alt pe-2 css-color" }
     ],
     "links": [
       { "github": "'https://github.com/nohawaheed/Angora-Website'" },
