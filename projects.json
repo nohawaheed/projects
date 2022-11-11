@@ -1,0 +1,103 @@
+[
+  {
+    "projectImgSrc": "'assets/images/FinalProject.webp'",
+    "projectName": "'Trending Movies'",
+    "projectDetails": "'Angular movie website using The Movie Database api.'",
+    "tools": [
+      { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
+      { "angular": "fa-brands fa-angular pe-2 angular-color" },
+      { "npm": "fab fa-npm pe-2 npm-color" },
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+    ],
+    "links": [
+      { "github": "'https://github.com/nohawaheed/Final-Project'" },
+      { "website": "'https://nohawaheed.github.io/Final-Project/'" }
+    ]
+  },
+  {
+    "projectImgSrc": "'assets/images/Corona.webp'",
+    "projectName": "'Corona Reports'",
+    "projectDetails": "'A simple website to view covid-19 world ranking.'",
+    "tools": [
+      { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
+      { "angular": "fa-brands fa-angular pe-2 angular-color" },
+      { "npm": "fab fa-npm pe-2 npm-color " },
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+    ],
+    "links": [
+      { "github": "'https://github.com/nohawaheed/corona-reports'" },
+      { "website": "'https://nohawaheed.github.io/corona-reports/'" }
+    ]
+  },
+  {
+    "projectImgSrc": "'assets/images/StartAngular.webp'",
+    "projectName": "'Start Angular'",
+    "projectDetails": "'Angular website using bootstrap, routing and reactive form.'",
+    "tools": [
+      { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
+      { "angular": "fa-brands fa-angular pe-2 angular-color" },
+      { "npm": "fab fa-npm pe-2 npm-color" },
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+    ],
+    "links": [
+      { "github": "'https://github.com/nohawaheed/Start-Angular'" },
+      { "website": "'https://nohawaheed.github.io/Start-Angular/'" }
+    ]
+  },
+  {
+    "projectImgSrc": "'assets/images/InsureLandingPage.webp'",
+    "projectName": "'Insure Landing Page'",
+    "projectDetails": "'React simple landing page using bootstrap.'",
+    "tools": [
+      { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
+      { "react": "fa-brands fa-react pe-2 react-color" },
+      { "npm": "fab fa-npm pe-2 npm-color" }
+    ],
+    "links": [
+      { "github": "'https://github.com/nohawaheed/Insure-landing-page'" },
+      { "website": "'https://nohawaheed.github.io/Insure-landing-page/'" }
+    ]
+  },
+  {
+    "projectImgSrc": "'assets/images/QuizApp.webp'",
+    "projectName": "'Quiz App'",
+    "projectDetails": "'Js multiple choices quiz game using oop concepts.'",
+    "tools": [
+      { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
+      { "javascript": "fa-brands fa-js pe-2 javascript-color" },
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+    ],
+    "links": [
+      { "github": "'https://github.com/nohawaheed/Js-Quiz-Game'" },
+      { "website": "'https://nohawaheed.github.io/Js-Quiz-Game/'" }
+    ]
+  },
+  {
+    "projectImgSrc": "'assets/images/WeatherApp.webp'",
+    "projectName": "'Weather App'",
+    "projectDetails": "'Display today’s weather and forecasts the next two days.'",
+    "tools": [
+      { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
+      { "javascript": "fa-brands fa-js pe-2 javascript-color" },
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+    ],
+    "links": [
+      { "github": "'https://github.com/nohawaheed/Weather-App'" },
+      { "website": "'https://nohawaheed.github.io/Weather-App/'" }
+    ]
+  },
+  {
+    "projectImgSrc": "'assets/images/Angora.webp'",
+    "projectName": "'Angora Website'",
+    "projectDetails": "'Responsive website using bootstrap framework.'",
+    "tools": [
+      { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
+      { "javascript": "fa-brands fa-js pe-2 javascript-color" },
+      { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" }
+    ],
+    "links": [
+      { "github": "'https://github.com/nohawaheed/Angora-Website'" },
+      { "website": "'https://nohawaheed.github.io/Angora-Website/'" }
+    ]
+  }
+]
