@@ -1,6 +1,6 @@
 [
   {
-    "projectImgSrc": "images/FinalProject.webp",
+    "projectImage": "https://nohawaheed.github.io/projects/images/FinalProject.webp",
     "projectName": "Trending Movies",
     "projectDetails": "Angular movie website using The Movie Database api.",
     "tools": [
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "projectImgSrc": "images/Corona.webp",
+    "projectImage": "https://nohawaheed.github.io/projects/images/Corona.webp",
     "projectName": "Corona Reports",
     "projectDetails": "A simple website to view covid-19 world ranking.",
     "tools": [
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "projectImgSrc": "images/StartAngular.webp",
+    "projectImage": "https://nohawaheed.github.io/projects/images/StartAngular.webp",
     "projectName": "Start Angular",
     "projectDetails": "Angular website using bootstrap, routing and reactive form.",
     "tools": [
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "projectImgSrc": "images/InsureLandingPage.webp",
+    "projectImage": "https://nohawaheed.github.io/projects/images/InsureLandingPage.webp",
     "projectName": "Insure Landing Page",
     "projectDetails": "React simple landing page using bootstrap.",
     "tools": [
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "projectImgSrc": "images/QuizApp.webp",
+    "projectImage": "https://nohawaheed.github.io/projects/images/QuizApp.webp",
     "projectName": "Quiz App",
     "projectDetails": "Js multiple choices quiz game using oop concepts.",
     "tools": [
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "projectImgSrc": "images/WeatherApp.webp",
+    "projectImage": "https://nohawaheed.github.io/projects/images/WeatherApp.webp",
     "projectName": "Weather App",
     "projectDetails": "Display today’s weather and forecasts the next two days.",
     "tools": [
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "projectImgSrc": "images/Angora.webp",
+    "projectImage": "https://nohawaheed.github.io/projects/images/Angora.webp",
     "projectName": "Angora Website",
     "projectDetails": "Responsive website using bootstrap framework.",
     "tools": [
