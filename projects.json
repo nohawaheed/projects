@@ -5,16 +5,20 @@
       "projectName": "Trending Movies",
       "projectDetails": "Angular movie website using The Movie Database api.",
       "tools": [
-        { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
-        { "angular": "fa-brands fa-angular pe-2 angular-color" },
-        { "npm": "fab fa-npm pe-2 npm-color" },
-        { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
-        { "sass": "fa-brands fa-sass pe-2 sass-color" },
-        { "html": "fa-brands fa-html5 pe-2 html-color" }
+        {
+          "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color",
+          "angular": "fa-brands fa-angular pe-2 angular-color",
+          "npm": "fab fa-npm pe-2 npm-color",
+          "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color",
+          "sass": "fa-brands fa-sass pe-2 sass-color",
+          "html": "fa-brands fa-html5 pe-2 html-color"
+        }
       ],
       "links": [
-        { "github": "https://github.com/nohawaheed/Final-Project" },
-        { "website": "https://nohawaheed.github.io/Final-Project/" }
+        {
+          "github": "https://github.com/nohawaheed/Final-Project",
+          "website": "https://nohawaheed.github.io/Final-Project/"
+        }
       ]
     },
     {
@@ -22,16 +26,20 @@
       "projectName": "Corona Reports",
       "projectDetails": "A simple website to view covid-19 world ranking.",
       "tools": [
-        { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
-        { "angular": "fa-brands fa-angular pe-2 angular-color" },
-        { "npm": "fab fa-npm pe-2 npm-color " },
-        { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
-        { "html": "fa-brands fa-html5 pe-2 html-color" },
-        { "css": "fa-brands fa-css3-alt pe-2 css-color" }
+        {
+          "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color",
+          "angular": "fa-brands fa-angular pe-2 angular-color",
+          "npm": "fab fa-npm pe-2 npm-color ",
+          "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color",
+          "html": "fa-brands fa-html5 pe-2 html-color",
+          "css": "fa-brands fa-css3-alt pe-2 css-color"
+        }
       ],
       "links": [
-        { "github": "https://github.com/nohawaheed/corona-reports" },
-        { "website": "https://nohawaheed.github.io/corona-reports/" }
+        {
+          "github": "https://github.com/nohawaheed/corona-reports",
+          "website": "https://nohawaheed.github.io/corona-reports/"
+        }
       ]
     },
     {
@@ -39,16 +47,20 @@
       "projectName": "Start Angular",
       "projectDetails": "Angular website using bootstrap, routing and reactive form.",
       "tools": [
-        { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
-        { "angular": "fa-brands fa-angular pe-2 angular-color" },
-        { "npm": "fab fa-npm pe-2 npm-color" },
-        { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
-        { "html": "fa-brands fa-html5 pe-2 html-color" },
-        { "sass": "fa-brands fa-sass pe-2 sass-color" }
+        {
+          "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color",
+          "angular": "fa-brands fa-angular pe-2 angular-color",
+          "npm": "fab fa-npm pe-2 npm-color",
+          "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color",
+          "html": "fa-brands fa-html5 pe-2 html-color",
+          "sass": "fa-brands fa-sass pe-2 sass-color"
+        }
       ],
       "links": [
-        { "github": "https://github.com/nohawaheed/Start-Angular" },
-        { "website": "https://nohawaheed.github.io/Start-Angular/" }
+        {
+          "github": "https://github.com/nohawaheed/Start-Angular",
+          "website": "https://nohawaheed.github.io/Start-Angular/"
+        }
       ]
     },
     {
@@ -56,15 +68,19 @@
       "projectName": "Insure Landing Page",
       "projectDetails": "React simple landing page using bootstrap.",
       "tools": [
-        { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
-        { "react": "fa-brands fa-react pe-2 react-color" },
-        { "npm": "fab fa-npm pe-2 npm-color" },
-        { "html": "fa-brands fa-html5 pe-2 html-color" },
-        { "css": "fa-brands fa-css3-alt pe-2 css-color" }
+        {
+          "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color",
+          "react": "fa-brands fa-react pe-2 react-color",
+          "npm": "fab fa-npm pe-2 npm-color",
+          "html": "fa-brands fa-html5 pe-2 html-color",
+          "css": "fa-brands fa-css3-alt pe-2 css-color"
+        }
       ],
       "links": [
-        { "github": "https://github.com/nohawaheed/Insure-landing-page" },
-        { "website": "https://nohawaheed.github.io/Insure-landing-page/" }
+        {
+          "github": "https://github.com/nohawaheed/Insure-landing-page",
+          "website": "https://nohawaheed.github.io/Insure-landing-page/"
+        }
       ]
     },
     {
@@ -72,15 +88,19 @@
       "projectName": "Quiz App",
       "projectDetails": "Js multiple choices quiz game using oop concepts.",
       "tools": [
-        { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
-        { "javascript": "fa-brands fa-js pe-2 javascript-color" },
-        { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
-        { "html": "fa-brands fa-html5 pe-2 html-color" },
-        { "css": "fa-brands fa-css3-alt pe-2 css-color" }
+        {
+          "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color",
+          "javascript": "fa-brands fa-js pe-2 javascript-color",
+          "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color",
+          "html": "fa-brands fa-html5 pe-2 html-color",
+          "css": "fa-brands fa-css3-alt pe-2 css-color"
+        }
       ],
       "links": [
-        { "github": "https://github.com/nohawaheed/Js-Quiz-Game" },
-        { "website": "https://nohawaheed.github.io/Js-Quiz-Game/" }
+        {
+          "github": "https://github.com/nohawaheed/Js-Quiz-Game",
+          "website": "https://nohawaheed.github.io/Js-Quiz-Game/"
+        }
       ]
     },
     {
@@ -88,15 +108,19 @@
       "projectName": "Weather App",
       "projectDetails": "Display today’s weather and forecasts the next two days.",
       "tools": [
-        { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
-        { "javascript": "fa-brands fa-js pe-2 javascript-color" },
-        { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
-        { "html": "fa-brands fa-html5 pe-2 html-color" },
-        { "css": "fa-brands fa-css3-alt pe-2 css-color" }
+        {
+          "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color",
+          "javascript": "fa-brands fa-js pe-2 javascript-color",
+          "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color",
+          "html": "fa-brands fa-html5 pe-2 html-color",
+          "css": "fa-brands fa-css3-alt pe-2 css-color"
+        }
       ],
       "links": [
-        { "github": "https://github.com/nohawaheed/Weather-App" },
-        { "website": "https://nohawaheed.github.io/Weather-App/" }
+        {
+          "github": "https://github.com/nohawaheed/Weather-App",
+          "website": "https://nohawaheed.github.io/Weather-App/"
+        }
       ]
     },
     {
@@ -104,15 +128,19 @@
       "projectName": "Angora Website",
       "projectDetails": "Responsive website using bootstrap framework.",
       "tools": [
-        { "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color" },
-        { "javascript": "fa-brands fa-js pe-2 javascript-color" },
-        { "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color" },
-        { "html": "fa-brands fa-html5 pe-2 html-color" },
-        { "css": "fa-brands fa-css3-alt pe-2 css-color" }
+        {
+          "bootstrap": "fa-brands fa-bootstrap pe-2 bootstrap-color",
+          "javascript": "fa-brands fa-js pe-2 javascript-color",
+          "fontawesome": "fa-solid fa-font-awesome pe-2 fontawesome-color",
+          "html": "fa-brands fa-html5 pe-2 html-color",
+          "css": "fa-brands fa-css3-alt pe-2 css-color"
+        }
       ],
       "links": [
-        { "github": "https://github.com/nohawaheed/Angora-Website" },
-        { "website": "https://nohawaheed.github.io/Angora-Website/" }
+        {
+          "github": "https://github.com/nohawaheed/Angora-Website",
+          "website": "https://nohawaheed.github.io/Angora-Website/"
+        }
       ]
     }
   ]
